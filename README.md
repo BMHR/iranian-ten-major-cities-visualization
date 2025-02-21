@@ -1,1 +1,1 @@
-# iranian-ten-major-cities-visualization
+# ten-major-iranian-cities-visualization
